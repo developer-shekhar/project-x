@@ -1,0 +1,56 @@
+user 
+    provide user name and nike name
+
+Home Feed 
+    Audio 
+    Video
+    Link
+    informative 
+        - text, images
+        
+Feed detail
+Title
+sort description 
+description
+    contains
+        text, html, images, audio and video 
+Options : like, share, pin (offline view), forget
+
+Create Feed :
+    Feed editor
+        -link video 
+        -link image 
+        -link website
+
+Gardens List
+    Top garden 
+    Most Active
+
+Create Garden
+ - name
+ - tag line
+ - cover image
+ - public / private
+ - YouTube chanel link
+ - Facebook page link
+ - Blog link (Website)
+ - Create Feed 
+ - Create coming up feed 
+ 
+
+
+
+Garden View 
+    garden details
+    Feed post by garden 
+    Owner profile 
+    - coming up section 
+
+
+
+
+
+struct Feed 
+ feedId : String 
+ title : String,
+ description : String

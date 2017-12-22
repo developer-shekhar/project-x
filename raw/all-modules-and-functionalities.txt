@@ -1,0 +1,126 @@
+On Boarding
+Login email
+Login socail
+Registration email
+Registration socail
+User Profile
+User Avator
+User Post
+Remove Post 
+User Garden 
+User Friends
+
+Home Feeds
+Feed detail
+Filter Feeds by time, type 
+Like a feed 
+pin a feed
+share feed - facebook
+share feed - web link
+
+Create a Feed 
+ Formated Text
+ Add Image
+ Add audio
+ Add video 
+ 
+Create Garden
+Garden profile
+    Garden profile pic
+    name, 
+    detail, 
+    pages (facebook, google, YouTube)
+    members 
+    Since (date)
+    Garden Health
+Garden Items 
+Item details
+    picture
+    detail 
+    Item Health
+    Item care 
+ 
+Gardens list 
+Garden detail
+Like a Garden 
+pin a Garden
+share Garden - facebook
+share Garden - web link
+
+Library
+    Plants detail
+    Vegis detail 
+        related receipe
+   How to care 
+
+Calander and Alarm  
+Find Plant helth issues - Machine learning module to detect Plant problem by taking and analyising its pictures (leaf, root or steam )
+
+
+Phase One
+    Login email
+
+    Registration email
+    User Profile
+    User Avator
+
+    Home Feeds
+    Feed detail
+    Filter Feeds by time, type 
+    Like a feed 
+    pin a feed
+    share feed - facebook
+    share feed - web link
+
+    Library
+        Plants detail
+        Vegis detail 
+            related receipe
+    How to care 
+
+Phase Two 
+        Login socail
+        Registration socail
+        User Post
+        Remove Post 
+        User Garden 
+        User Friends
+    Create a Feed 
+    Formated Text
+    Add Image
+    Add audio
+    Add video 
+    
+    Create Garden
+    Garden profile
+        Garden profile pic
+        name, 
+        detail, 
+        pages (facebook, google, YouTube)
+        members 
+        Since (date)
+        Garden Health
+    Garden Items 
+    Item details
+        picture
+        detail 
+        Item Health
+        Item care 
+    
+    Gardens list 
+    Garden detail
+    Like a Garden 
+    pin a Garden
+    share Garden - facebook
+    share Garden - web link
+
+Phase Three
+    On Boarding
+    Calander and Alarm  
+    Find Plant helth issues - Machine learning module to detect Plant problem by taking and analyising its pictures (leaf, root or steam )
+
+Tab Bar 
+ - Home
+ - Garden
+ - Library
+ - Settings 

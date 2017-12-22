@@ -1,0 +1,10 @@
+//user data
+{
+    "ID" : "de34df45dr5g6gh6g7k8l4",
+    "user_id" : "unique_user_id",
+    "nike_name" : "user name",
+    "gardens" : [],
+    "pins"  : ["feed_id", "feed_id1"],
+    "likes" : ["feed_id", "feed_id1"],
+    "feeds" : ["feed_id", "feed_id1"]
+}
